@@ -11,8 +11,11 @@ Exemple
   
    **Contraintes**
   
-  * Une seule valeur possible en sortie*Les valeurs d'entrée peuvent être aléatoires mais elles sont situés dans une plage ex :(de 1 à 10)
-  *Les valeurs peuvent être de type **entier** ou **réel**(flottants) 
+  * Une seule valeur possible en sortie
+  
+  * Les valeurs d'entrée peuvent être aléatoires mais elles sont situés dans une plage ex :(de 1 à 10)
+  
+  * Les valeurs peuvent être de type **entier** ou **réel**(flottants) 
 
 
 ```
