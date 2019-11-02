@@ -38,4 +38,4 @@ float fonction d(e,f,g,l):
   
  fontion d(a,b,c,x)
   
- Ecrire(e)```
+ Ecrire(e)
