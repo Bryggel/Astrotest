@@ -16,7 +16,7 @@ client.on('message',message =>
 
           if (message.content === prefix + 'ping') 
           {
-            message.channel.send ('Je suis la création de Bryggel');
+            message.channel.send ('Je suis la création de Bryggel et Astro');
           }
 
 
