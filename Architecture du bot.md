@@ -1,14 +1,21 @@
 #Résumé
-C'est un bot qui te fait passer des  tests pour gagner de l'xp
-Il gerera les tests d'algorithme plus poussés mais ce sont les admins qui vérifiront
+  
+  C'est un bot qui te fait passer des  tests pour gagner de l'xp
+  
+  Il gerera les tests d'algorithme plus poussés mais ce sont les admins qui vérifiront
 
 Exemple
 
-/*Ecrire la valeur de sortie
-**Contraintes**
-*Une seule valeur possible en sortie
-*Les valeurs d'entrée peuvent être aléatoires mais elles sont situés dans une plage ex :(de 1 à 10)
-*Les valeurs peuvent être de type **entier** ou **réel**(flottants) */
+  
+  /*Ecrire la valeur de sortie
+  
+  **Contraintes**
+  
+  *Une seule valeur possible en sortie
+  
+  *Les valeurs d'entrée peuvent être aléatoires mais elles sont situés dans une plage ex :(de 1 à 10)
+  
+  *Les valeurs peuvent être de type **entier** ou **réel**(flottants) */
 
 
 `
