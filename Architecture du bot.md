@@ -6,9 +6,11 @@
 
 Exemple
 
-  Écrire la valeur de sortie
+  
   
    **Contraintes**
+   
+   * Écrire la valeur de sortie
   
   * Une seule valeur possible en sortie
   
