@@ -27,7 +27,7 @@ float fonction d(e,f,g,l):
   e := e * f
   
   sinon
-  e := 0
+  e := -1
   
   retourner e := e + f + g +l
   
