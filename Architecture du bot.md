@@ -9,7 +9,7 @@ Exemple
   
   /*Ecrire la valeur de sortie
   
-  **Contraintes**
+   **Contraintes**
   
   *Une seule valeur possible en sortie
   
