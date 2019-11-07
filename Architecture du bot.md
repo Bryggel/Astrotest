@@ -20,7 +20,7 @@ Exemple
 
 
 ```
-float fonction d(e,f,g,l):
+ fonction d(e,f,g,l):
  
   tant que e > 0 
   si e % f == 1 alors
@@ -32,7 +32,7 @@ float fonction d(e,f,g,l):
   retourner e := e + f + g +l
   
  entier a := 10
- float b := 2.5
+ réel b := 2.5
  entier c := -9
  entier x := 6
   
