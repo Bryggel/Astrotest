@@ -41,6 +41,6 @@ function getRandomInt(max) {
 //console.log(getRandomInt(10));
 // sortie attendue: entre 0 et 10
 
-
+//http://www.jeuxvideo.com/forums/42-51-61238946-3-0-1-0-cul-c-est-la-generations-la-plus-unique-quelle-ramassis-de.htm
 
 //console.log(Math.random());
